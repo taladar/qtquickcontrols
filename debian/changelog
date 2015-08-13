@@ -1,0 +1,5 @@
+qtquickcontrols (4.99-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Justus Siefert <jsiefert@saltation.de>  Tue, 11 Aug 2015 15:53:22 +0200
