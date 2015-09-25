@@ -1,0 +1,8 @@
+# This package is not intended for Debian and has no relation to the Debian bug
+# tracker at all
+qtquickcontrols1 binary: new-package-should-close-itp-bug
+
+# This package is not created by us and so we can not easily change the location
+# where it places its files
+qtquickcontrols1 binary: image-file-in-usr-lib usr/lib/x86_64-linux-gnu/qt4/imports/QtDesktop/images/folder_new.png
+
