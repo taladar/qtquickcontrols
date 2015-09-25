@@ -13,5 +13,5 @@ Package: qtquickcontrols1
 Section: libs
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: <insert up to 60 chars description>
- <insert long description, indented with spaces>
+Description: Some form of Qt 4 addon
+ This is required by the AGFEO TKSuite ES Client for some functionality.
