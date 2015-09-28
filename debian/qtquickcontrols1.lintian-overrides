@@ -6,4 +6,5 @@ qtquickcontrols1 binary: new-package-should-close-itp-bug
 # where it places its files
 qtquickcontrols1 binary: image-file-in-usr-lib usr/lib/x86_64-linux-gnu/qt4/imports/QtDesktop/images/folder_new.png
 qtquickcontrols1 binary: image-file-in-usr-lib usr/lib/i386-linux-gnu/qt4/imports/QtDesktop/images/folder_new.png
+qtquickcontrols1 binary: image-file-in-usr-lib usr/lib/qt4/imports/QtDesktop/images/folder_new.png
 
