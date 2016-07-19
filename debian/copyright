@@ -4,7 +4,7 @@ Source: http://qt.io
 
 Files: *
 Copyright: 2012 Nokia Corporation and/or its subsidiary(-ies)
-License: BSD
+License: BSD-3-clause
  You may use this file under the terms of the BSD license as follows:
  .
  "Redistribution and use in source and binary forms, with or without

@@ -3,7 +3,7 @@ Priority: optional
 Maintainer: Nils Jeisecke <njeisecke@saltation.de>
 Uploaders: Matthias Hörmann <mhoermann@saltation.de>, Justus Siefert <jsiefert@saltation.de>
 Build-Depends: debhelper (>= 9), libqt4-dev, libqt4-dev-bin | libqt4-dev (<< 4:4.8.1-1)
-Standards-Version: 3.9.4
+Standards-Version: 3.9.6
 Section: libs
 Homepage: https://github.com/qtproject/qtquickcontrols
 #Vcs-Git: git://git.debian.org/collab-maint/qtquickcontrols.git
